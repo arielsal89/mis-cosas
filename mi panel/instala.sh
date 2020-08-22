@@ -176,7 +176,7 @@ msg -ama "[ NEW - ULTIMATE - SCRIPT ] ➣ \033[1;33m[\033[1;34m OFICIAL BY-DANKE
 [[ $1 = "" ]] && funcao_idioma || {
 [[ ${#1} -gt 2 ]] && funcao_idioma || id="$1"
  }
-Key="qra-atsilK0@84%ab97cda8f?K8888:8@@+95+84?+94@"
+Key="qra-atsilK?29@%6087%?66d5K8888:%05+08+@@?+91"
 REQUEST=$(echo $SCPresq|$SUB_DOM)
 IP="104.238.135.147" && echo "$IP" > /usr/bin/vendor_code
 cd $HOME
